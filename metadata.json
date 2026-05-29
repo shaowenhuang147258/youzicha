@@ -1,0 +1,6 @@
+{
+  "name": "Visual & 3D Design Portfolio",
+  "description": "A minimalist, typography-driven single-page portfolio website in the style of A Black Cover Design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
